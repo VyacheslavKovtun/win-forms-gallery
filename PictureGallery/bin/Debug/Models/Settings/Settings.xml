@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <control>
+    <width>788</width>
+    <height>20</height>
+  </control>
+  <control>
+    <width>202</width>
+    <height>408</height>
+  </control>
+  <control>
+    <width>588</width>
+    <height>408</height>
+  </control>
+  <control>
+    <width>788</width>
+    <height>19</height>
+  </control>
+</controls>

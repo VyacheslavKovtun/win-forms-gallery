@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\bin\Debug\PictureGallery.exe.config
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\bin\Debug\PictureGallery.exe
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\bin\Debug\PictureGallery.pdb
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\obj\Debug\PictureGallery.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\obj\Debug\PictureGallery.MainForm.resources
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\obj\Debug\PictureGallery.Properties.Resources.resources
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\obj\Debug\PictureGallery.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\obj\Debug\PictureGallery.exe
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\obj\Debug\PictureGallery.pdb
+C:\Users\User\Desktop\Projects VS\WinForms\PictureGallery\PictureGallery\obj\Debug\PictureGallery.ShowForm.resources
